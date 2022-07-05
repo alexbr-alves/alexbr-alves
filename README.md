@@ -4,11 +4,13 @@
 <h3 align="center">React Native Mobile Developer</h3>
 <img style="width: 100px; height: 100px; text-align: center;" src="https://user-images.githubusercontent.com/103543739/177021268-e0f0ad06-24fb-4919-9efa-2d3caa6179a8.png">
 
-- 🌱 I’m currently learning: **React Native/JavaScript, Database and Cloud**
-
 - 💬 Ask me about: **Reack Nativo | JavaScript | HTML | CSS | Python**
 
 - About me: **graduating in Information Systems and specializing in Mobile Developer**
+
+- 🌱 I’m currently learning: **React Native/JavaScript, Database and Cloud**
+
+
 
 - 🏫 Where I study: **Unit-Se and Alura**
 
