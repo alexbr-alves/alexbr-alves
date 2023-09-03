@@ -4,13 +4,11 @@
 <h3 align="center" color="#0080FF">Android Developer</h3>
 <div  align="center"> <img style="width: 100px; height: 100px; text-align: center;" src="https://user-images.githubusercontent.com/103543739/177021268-e0f0ad06-24fb-4919-9efa-2d3caa6179a8.png"> </div>
 
-- 💬 Ask me about: **Android | Kotlin | Java**
+- 💬 Ask me about: **Android Development and React Native Development**
 
-- About me: **graduating in Information Systems and specializing in mobile Developer**
+- About me: **working as an android developer, majoring in information systems and studying mobile development**
 
 - 🌱 I’m currently learning: **Android/Kotlin and Java, Database and Cloud**
-
-
 
 - 🏫 Where I study: **Unit-Se**
 
