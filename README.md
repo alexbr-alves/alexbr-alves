@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alex </h1>
-<h3 align="center" color="#0080FF">Android Developer</h3>
+<h3 align="center" color="#0080FF">Mobile Developer</h3>
 <div  align="center"> <img style="width: 100px; height: 100px; text-align: center;" src="https://user-images.githubusercontent.com/103543739/177021268-e0f0ad06-24fb-4919-9efa-2d3caa6179a8.png"> </div>
 
 - 💬 Ask me about: **Android Development and React Native Development**
@@ -57,8 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+ 
 </div>
 
 ###
